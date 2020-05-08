@@ -1,0 +1,33 @@
+
+/* zcool-xiaowei-regular - latin */
+@font-face {
+     font-family: 'ZCOOL XiaoWei';
+     font-style: normal;
+     font-weight: 400;
+     src: url('../fonts/zcool-xiaowei-v5-latin/zcool-xiaowei-v5-latin-regular.eot'); /* IE9 Compat Modes */
+     src: local('ZCOOL XiaoWei Regular'), local('ZCOOLXiaoWei-Regular'),
+          url('../fonts/zcool-xiaowei-v5-latin/zcool-xiaowei-v5-latin-regular.eot') format('embedded-opentype'), /* IE6-IE8 */
+          url('../fonts/zcool-xiaowei-v5-latin/zcool-xiaowei-v5-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+          url('../fonts/zcool-xiaowei-v5-latin/zcool-xiaowei-v5-latin-regular.woff') format('woff'), /* Modern Browsers */
+          url('../fonts/zcool-xiaowei-v5-latin/zcool-xiaowei-v5-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+          url('../fonts/zcool-xiaowei-v5-latin/zcool-xiaowei-v5-latin-regular.svg') format('svg'); /* Legacy iOS */
+   }
+   
+   
+
+@font-face {
+     font-family: 'MaShanZheng-Regular';
+     src: url('../fonts/MaShanZheng-Regular.ttf') format('truetype');
+     font-weight: normal;
+     font-style: normal;
+ 
+ }
+@font-face {
+     font-family: 'beian-kairegular';
+     src: url('../fonts/beiai_chinese_font/beian-kairegular.woff2') format('woff2'),
+          url('../fonts/beiai_chinese_font/beian-kairegular.woff') format('woff');
+     font-weight: normal;
+     font-style: normal;
+ 
+ }
+ 
